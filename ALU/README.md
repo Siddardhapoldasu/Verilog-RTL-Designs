@@ -38,3 +38,9 @@ alu.v          → ALU Design Module
 alu_tb.v       → Testbench File
 waveform.png   → Simulation Waveform
 README.md      → Project Documentation
+🛠️ Tools Used
+Verilog HDL
+EDA Playground
+EPWave Viewer
+▶️ Simulation
+The design was simulated using EDA Playground and verified through waveform analysis.
